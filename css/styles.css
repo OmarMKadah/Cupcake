@@ -1,0 +1,40 @@
+body {
+  background-image: url("../images/pdx.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.flashy{
+  color:#F29C96;
+  font-style: italic;
+}
+
+.links{
+  text-align: center;
+  font-size: 30;
+  color: #EE7970;
+  letter-spacing: 3px;
+  word-spacing: 10px;
+}
+
+.pdxcupcake{
+  word-spacing: 0px;
+}
+
+.body{
+  text-size 40px;
+  text-align: left;
+}
+
+.image{
+  image-orientation: center;
+  width: 400px;
+  height: 400px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
